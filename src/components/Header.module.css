@@ -1,0 +1,11 @@
+.header {
+  background: var(--gray-800);
+  display: flex;
+  justify-content: center;
+  /* 1rem equivale a 16px e 0.25rem a 4px, totalizando 20px. */
+  padding: 1.25rem 0;
+}
+
+.header img {
+  height: 2rem;
+}
